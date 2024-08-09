@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👾 Hello, World! I'm sushil, your friendly neighborhood code wrangler and digital dreamer. I turn caffeine into code and bugs into features! 💻☕️<br><br>🧩 On a quest to conquer the tech universe, I dabble in everything from HTML, CSS, JavaScript to React Native. If you see me chasing down a rogue semicolon, just know I'm on a mission for perfection. 🎯<br><br>🚀 My GitHub is like a treasure chest of projects—ranging from quirky experiments to epic code quests. Dive in and let’s make some digital magic together!<br><br>🌟 When I’m not coding, I’m gamer, plotting world domination... or just chilling.<br><br>👋 Feel free to drop a message if you want to collaborate, share cool ideas, or just chat about the latest tech buzz!<br><br>Happy coding and may the bugs be ever in your favor! 🌟
 
 
